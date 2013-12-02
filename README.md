@@ -28,6 +28,7 @@ Set Up Instructions
 Notes
 -----
 I originally wanted to have the convertVidDL applescript automatically convert newly downloaded .avi's before moving the dedicated directory, but it was being finicky with Terminal commands (would choose to run them only randomly, including simple echo).
-So I settled for this less elegant solution, at least for the time being. I hope to clean this up in the future to allow for:
-Listen to /Downloads --> if .avi, convert, move to /Downloads/MovieLibrary, delete original --> else if other movie, move to /Downloads/MovieLibrary
+So I settled for this less elegant solution, at least for the time being. I hope to clean this up in the future to allow for:  
+  
+  Listen to /Downloads --> if .avi, convert, move to /Downloads/MovieLibrary, delete original --> else if other movie, move to /Downloads/MovieLibrary
 all within the same applescript.
