@@ -21,7 +21,7 @@ Set Up Instructions
 2. Install dependencies
 3. Customize convertVidDL to your chosen movie directory (see comments provided in script)
 4. Set Folder Actions to chosen folder (I chose /Downloads)
-5. Set up crontab for daily batch video conversion
+5. Set up crontab for daily batch video conversion  
       See: http://stackoverflow.com/questions/882016/how-to-run-shell-script-in-mac-os-x-everyday-or-set-a-timing
 
 
